@@ -35,14 +35,7 @@
         </named-connections>
         <relation connection='excel-direct.1ukq84018q1337181bkqg0hgw0l9' name='Sheet1' table='[Sheet1$]' type='table'>
           <columns gridOrigin='A1:H7324:no:A1:H7324:0' header='yes' outcome='2'>
-            <column datatype='string' name='Name' ordinal='0' />
-            <column datatype='string' name='Status' ordinal='1' />
-            <column datatype='string' name='Launch Service Provider' ordinal='2' />
-            <column datatype='string' name='Rocket' ordinal='3' />
-            <column datatype='string' name='Mission' ordinal='4' />
-            <column datatype='datetime' date-parse-format='MM/dd/yyyy HH:mm &apos;a&apos;.&apos;m&apos;.|#|#|dd/MM/yyyy HH:mm &apos;p&apos;.&apos;m&apos;.|#|#|MM/dd/yyyy HH &apos;a&apos;.&apos;m&apos;.|#|#|MM/dd/yyyy HH:mm &apos;p&apos;.&apos;m&apos;.|#|#|MM/dd/yyyy HH &apos;p&apos;.&apos;m&apos;.' name='Net' ordinal='5' />
-            <column datatype='string' name='Pad' ordinal='6' />
-            <column datatype='string' name='search' ordinal='7' />
+
           </columns>
         </relation>
         <metadata-records>
